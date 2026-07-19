@@ -8,6 +8,8 @@ Projeto desenvolvido para praticar operações de **CRUD (Create, Read, Update e
 * MySQL
 * Bootstrap 5
 
+Isso é uma alteração
+
 
 ## 📌 Funcionalidades
 
